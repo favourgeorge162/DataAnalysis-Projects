@@ -22,13 +22,11 @@ A bicycle retail company wants to understand the behavior and demographics of th
 Example: =IFS(L2<31,"Adolescent",L2<55,"Adult",L2>54,"Elderly")
 
 4.	Visualization & Dashboarding:
-__Average Income per Purchase: Compared the average income of buyers vs. non-buyers, segmented by gender.
+Average Income per Purchase: Compared the average income of buyers vs. non-buyers, segmented by gender.
 Commute Distance Analysis: Analyzed the relationship between the distance a customer lives from work and their likelihood of purchasing a bike.
 Age Group Trends: Visualized sales volume across different age brackets.
 
-<img width="850" height="553" alt="Bike Sales DB" src="https://github.com/user-attachments/assets/0348c974-95f3-4585-b4a7-b0aaa7dbe87a" />
-
-
+[<img width="850" height="553" alt="Bike Sales DB" src="https://github.com/user-attachments/assets/0348c974-95f3-4585-b4a7-b0aaa7dbe87a" />](https://github.com/favourgeorge162/DataAnalysis-Projects/blob/main/Bike%20Sales%20DB.png)
 
 ### 💡 Key Insights
 •	Income Factor: Customers who purchased bikes generally have a higher average income compared to non-buyers. Additionally, male customers in this dataset tended to have slightly higher incomes than female customers.
@@ -41,6 +39,8 @@ Age Group Trends: Visualized sales volume across different age brackets.
 
 ### Recommendations
 •	Target Marketing: Focus marketing campaigns heavily on the Middle-Aged (31-54) demographic, as they are the primary purchasers.
+
 •	Location-Based Strategy: Prioritize advertising in residential areas located within a 0-5 mile radius of major business hubs or workplaces, as short commuters are high-potential leads.
+
 •	Pricing Strategy: Since bike buyers tend to have higher incomes, there may be an opportunity to introduce premium models or accessories to this specific segment.
 
